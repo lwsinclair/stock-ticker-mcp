@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/losincos-stock-ticker-mcp-badge.png)](https://mseep.ai/app/losincos-stock-ticker-mcp)
+
 # Stock Ticker MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@LoSinCos/stock-ticker-mcp)](https://smithery.ai/server/@LoSinCos/stock-ticker-mcp)
